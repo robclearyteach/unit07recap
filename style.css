@@ -22,3 +22,18 @@ header {
   font-style: italic;
   font-size: 1rem;
 }
+
+section {
+  background-color: white;
+  margin: 20px auto;
+  padding: 20px;
+  width: 90%;
+  max-width: 600px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+h2 {
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 8px;
+}
